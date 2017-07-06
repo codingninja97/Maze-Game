@@ -1,0 +1,17 @@
+body {
+  background-image: url("http://puzzle-house.co.uk/maze.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  top: auto;
+}
+
+h1{
+  padding-bottom: 20px;
+}
+/*This is the image for the square dot*/
+.dot{
+  width: 60px;
+  position: relative;
+  left: 0;
+  top: 0;
+}
